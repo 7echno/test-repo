@@ -1,0 +1,12 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deliberately vulnerable sample app for testing GitHub security features. Never deploy.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.20",
+    "minimist": "1.2.5"
+  }
+}
